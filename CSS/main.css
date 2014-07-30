@@ -1,0 +1,194 @@
+body {
+	font-family: 'Oswald', 'Pacifico';
+	background-color: #66cccc;
+	background-size: cover;
+	display: inline-block;
+	height: 100%;
+	width: 90%;
+	margin: auto;
+	text-decoration: none;
+	list-style: none;
+
+}
+
+
+
+
+
+}
+a {
+	text-decoration: none;
+
+}
+
+
+header {
+	float: right;
+	margin: 0px 0px 30px 25px;
+	padding: 5px 0px 0px 25px;
+	width: 100%;
+	list-style: none;
+	text-decoration: none;
+	
+	
+
+
+
+}
+
+h1 {
+	margin: 0px 0px 0px 30px;
+	color: #FFFFFF;
+	font-family: 'Helvetia', cursive;
+	position: absolute;
+	top: 120px;
+	
+	
+
+
+}
+h2 {
+	margin: 0px 0px 0px 30px;
+	color: #FFFFFF;
+	font-family: 'Helvetia', cursive;
+	position: absolute;
+	top: 160px;
+}
+
+
+
+.logo {
+	display: block;
+	height: 16em;
+	width: 30em;
+	margin-top: 2em;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 20%;
+
+	
+}
+
+#headerimage {
+	display: inline-block;
+	height: 500px;
+	width: 500px;
+	padding-left: 700px;
+	
+
+}
+
+
+ 
+
+
+/********************************
+Navigation
+********************************/
+
+
+
+nav {
+	display: inline-block;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 50px;
+	
+}
+
+
+
+
+nav ul {
+	list-style: none;
+	margin: 0 10px;
+	padding: 0px;
+	text-align: center;
+	
+
+
+}
+
+nav li {
+	display: inline-block;
+	text-align: right;
+	padding: 15px 10px;
+	margin: 40px ;
+	
+	
+	
+
+}
+
+nav a {
+	display: inline-block;
+	list-style: none;
+	font-weight: 800;
+	text-decoration: none;
+	padding: 15px 10px; 
+	
+
+}
+/* unvisited link */
+a:link {
+color: #F2E603;
+text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+color: #F2E603;
+}
+
+/* mouse over link */
+a:hover {
+color: #FF00FF;
+}
+
+/* selected link */
+a:active {
+color: #0000FF;
+}
+
+
+
+
+/**************************
+Image Gallery
+**************************/
+
+
+#images_hz 
+{
+width: 960px;
+height: auto;
+overflow: hidden;
+
+}
+#images_hz img 
+{
+display: inline;
+margin: 0 10px;
+}
+
+/**************************
+Form
+**************************/
+input {
+	background-color: pink;
+	border-radius: 5px;
+}
+/****************************
+Footer
+****************************/
+footer {
+  
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+   text-align: center;
+}
+
+
